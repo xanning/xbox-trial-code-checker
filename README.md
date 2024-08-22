@@ -11,6 +11,8 @@ On this part of the code, remove the dummy text and replace it with your auth he
 
 Put your codes in "codes.txt" at same folder, one code each line, and run by "python main.py".
 
+After done, it will save the valid codes in valid_codes.txt
+
 # How to get your headers
 
 You don't need to do this every time. Only when your XBL authorization token expires.
