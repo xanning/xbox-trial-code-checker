@@ -13,7 +13,7 @@ print(Fore.RED + r"""
                                                                
     """)
 print(Style.RESET_ALL)
-print(Fore.YELLOW + "BREAKING NEWS, HT3N RATTED %90 OF HER USERS")
+print(Fore.YELLOW + "https://www.youtube.com/watch?v=XGUS7VnLvZU")
 print(Fore.GREEN + " ")
 print(Fore.LIGHTCYAN_EX + "[XGPC Checker]")
 print(Fore.LIGHTCYAN_EX + " ")
@@ -43,7 +43,6 @@ for code in codes:
  
 
  response = requests.get(url, headers=headers)
- print(response)
  if response.text == "\"ClaimedOffersMaxed\"":
     used_count += 1
     print(Fore.YELLOW + f"- {code} is used ({used_count})")
