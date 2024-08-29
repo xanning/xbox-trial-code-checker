@@ -49,5 +49,7 @@ I dont know all of the responses, so some codes show as "Invalid" while they're 
 
 # Threading? Proxy?
 
-No.
+If you want to, you can use the Threaded_Checker.py version (which all of the threading system written by copilot but it works
+
+Proxy, no. API is basically limitless. Why would you need proxy?
 
